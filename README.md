@@ -1,0 +1,2 @@
+# hackleague
+Championship for coders
